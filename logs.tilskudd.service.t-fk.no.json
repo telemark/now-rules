@@ -1,0 +1,6 @@
+{
+  "rules": [
+    { "pathname": "/stats/**", "dest": "stats.logs.tilskudd.mikrotjenester.win" },
+    { "dest": "main.logs.tilskudd.mikrotjenester.win" }
+  ]
+}
