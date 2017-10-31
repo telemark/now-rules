@@ -1,0 +1,6 @@
+{
+  "rules": [
+    { "pathname": "/search", "dest": "www.telemark.no" },
+    { "dest": "tom-holen.squarespace.com" }
+  ]
+}
